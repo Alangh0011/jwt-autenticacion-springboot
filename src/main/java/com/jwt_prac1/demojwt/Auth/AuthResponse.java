@@ -1,4 +1,4 @@
-package Auth;
+package com.jwt_prac1.demojwt.Auth;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

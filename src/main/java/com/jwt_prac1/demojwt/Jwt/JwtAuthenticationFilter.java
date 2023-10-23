@@ -1,4 +1,4 @@
-package Jwt;
+package com.jwt_prac1.demojwt.Jwt;
 
 import java.io.IOException;
 

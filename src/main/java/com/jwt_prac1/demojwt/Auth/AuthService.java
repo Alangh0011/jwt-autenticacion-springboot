@@ -1,4 +1,4 @@
-package Auth;
+package com.jwt_prac1.demojwt.Auth;
 
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
@@ -6,10 +6,10 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import com.jwt_prac1.demo-jwt.Jwt.JwtService;
-import com.jwt_prac1.demo-jwt.User.Role;
-import com.jwt_prac1.demo-jwt.User.User;
-import com.jwt_prac1.demo-jwt.User.UserRepository;
+import com.jwt_prac1.demojwt.Jwt.JwtService;
+import com.jwt_prac1.demojwt.User.Role;
+import com.jwt_prac1.demojwt.User.User;
+import com.jwt_prac1.demojwt.User.UserRepository;
 
 import lombok.RequiredArgsConstructor;
 

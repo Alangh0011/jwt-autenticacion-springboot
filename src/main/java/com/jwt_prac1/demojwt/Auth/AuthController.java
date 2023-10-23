@@ -1,4 +1,4 @@
-package Auth;
+package com.jwt_prac1.demojwt.Auth;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
